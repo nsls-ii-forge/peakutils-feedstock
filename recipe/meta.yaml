@@ -34,7 +34,6 @@ about:
   license_family: MIT
   license_file: LICENSE.txt
   summary: 'Peak detection utilities for 1D data'
-
   description: |
     This package provides utilities related to the detection of peaks on 
     1D data. Includes functions to estimate baselines, finding the 
@@ -42,7 +41,3 @@ about:
     computation to further increase the resolution of the peak detection.
   doc_url: http://pythonhosted.org/PeakUtils/
   dev_url: https://bitbucket.org/lucashnegri/peakutils/
-
-extra:
-  recipe-maintainers:
-    - xmnlab

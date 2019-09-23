@@ -84,5 +84,4 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@xmnlab](https://github.com/xmnlab/)
 
