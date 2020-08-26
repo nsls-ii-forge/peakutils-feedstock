@@ -5,7 +5,7 @@ Home: https://bitbucket.org/lucashnegri/peakutils
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Peak detection utilities for 1D data
 
