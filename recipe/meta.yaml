@@ -26,7 +26,7 @@ requirements:
 
 test:
   imports:
-    - {{ name }}
+    - peakutils
 
 about:
   home: https://bitbucket.org/lucashnegri/peakutils
@@ -39,5 +39,5 @@ about:
     1D data. Includes functions to estimate baselines, finding the 
     indexes of peaks in the data and performing Gaussian fitting or centroid 
     computation to further increase the resolution of the peak detection.
-  doc_url: http://pythonhosted.org/PeakUtils/
-  dev_url: https://bitbucket.org/lucashnegri/peakutils/
+  doc_url: https://peakutils.readthedocs.io
+  dev_url: https://bitbucket.org/lucashnegri/peakutils
